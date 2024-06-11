@@ -1,0 +1,38 @@
+{
+    "Bélier": {
+      "Dates": "21 mars - 19 avril"
+    },
+    "Taureau": {
+      "Dates": "20 avril - 20 mai"
+    },
+    "Gémeaux": {
+      "Dates": "21 mai - 20 juin"
+    },
+    "Cancer": {
+      "Dates": "21 juin - 22 juillet"
+    },
+    "Lion": {
+      "Dates": "23 juillet - 22 août"
+    },
+    "Vierge": {
+      "Dates": "23 août - 22 septembre"
+    },
+    "Balance": {
+      "Dates": "23 septembre - 22 octobre"
+    },
+    "Scorpion": {
+      "Dates": "23 octobre - 21 novembre"
+    },
+    "Sagittaire": {
+      "Dates": "22 novembre - 21 décembre"
+    },
+    "Capricorne": {
+      "Dates": "22 décembre - 19 janvier"
+    },
+    "Verseau": {
+      "Dates": "20 janvier - 18 février"
+    },
+    "Poissons": {
+      "Dates": "19 février - 20 mars"
+    }
+  }
